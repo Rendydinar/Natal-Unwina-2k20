@@ -1,0 +1,18 @@
+.background {
+  background-image: url('../static/img/banner-landing.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  padding-top: 20%;
+  padding-left: 6%;
+  padding-right: 6%;
+
+}
+
+.title {
+  color: white;
+	font-weight: bold !important;	
+}

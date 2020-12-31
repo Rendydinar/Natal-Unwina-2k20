@@ -1,0 +1,48 @@
+.background {
+	background-image: url('../static/img/banner-landing.jpg');
+	background-repeat: no-repeat;
+	height: 100vh;
+	object-fit: cover;
+	background-position: center;
+	background-size: cover;
+	max-width: 100%;
+	padding-top: 20%;
+	padding-left: 6%; 
+}
+  
+.title {
+	color: white;
+	font-weight: bold !important;	
+}
+
+.imgResponsive {
+	width: 100%;
+	height: 330px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.curvediv {
+	position: relative;
+	background: #E40A2D;
+	color: #FFF;
+	text-align: center;
+	overflow: hidden;
+}
+.curvediv svg {
+	display: block;
+}
+
+.curvediv.upper {
+	background: #fff;
+}
+
+.curvediv h1 {
+	font-size: 2rem;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	margin-top:0rem;
+}
+
+.curvediv p svg{
+	ransform: rotate(180deg);
+}

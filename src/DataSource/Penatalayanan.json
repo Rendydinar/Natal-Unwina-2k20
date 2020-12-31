@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "nama": "Renata",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FIMG_9232.jpg?alt=media&token=c145147b-5934-463b-9fc5-d3ac706155e0",
+      "jabatan": "Worship Leader"
+    },
+    {
+      "nama": "Umbu Rihi Landu Niki",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2Fphoto_2020-12-30_17-20-33.jpg?alt=media&token=7f50b66e-0ece-4c7a-8f1c-a90c87d16f43",
+      "jabatan": "MC"
+    },
+    {
+      "nama": "Tya",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FWhatsApp%20Image%202020-12-17%20at%2020.34.45.jpeg?alt=media&token=bf919b94-4f65-451e-92e0-dac4a14f0274",
+      "jabatan": "MC"
+    },
+    {
+      "nama": "Ambu",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FIMG_20200905_185447.jpg?alt=media&token=d6dd00ea-16b1-450e-aa13-792393861a56",
+      "jabatan": "Singer"
+    },
+    {
+      "nama": "Erlia",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FIMG_20200905_185447.jpg?alt=media&token=d6dd00ea-16b1-450e-aa13-792393861a56",
+      "jabatan": "Singer"
+    },
+    {
+      "nama": "Agan",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FIMG-20200628-WA0035.jpg?alt=media&token=ca6226d9-2cf0-44e2-990e-8e39d32bf8a0",
+      "jabatan": "Pemusik"
+    },
+    {
+      "nama": "Januar",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FDSC_0073.jpg?alt=media&token=1d2275e2-0c36-474b-bf71-bf52fd578938",
+      "jabatan": "Pemusik"
+    },
+    {
+      "nama": "Drumer",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FWhatsApp%20Image%202020-12-17%20at%2014.54.38.jpeg?alt=media&token=9dd157c7-a68e-41fc-b860-cce5488067d2",
+      "jabatan": "Pemusik"
+    },
+    {
+      "nama": "Bass",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FWhatsApp%20Image%202020-12-17%20at%2014.22.44.jpeg?alt=media&token=da203223-e72b-4784-b6c4-a3915f6aeba4",
+      "jabatan": "Pemusik"
+    },
+    {
+      "nama": "Pingky Ariel Leo Lede",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-panitia%2FWhatsApp%20Image%202020-12-17%20at%2014.22.44.jpeg?alt=media&token=da203223-e72b-4784-b6c4-a3915f6aeba4",
+      "jabatan": "Host"
+    }
+  ]
+}

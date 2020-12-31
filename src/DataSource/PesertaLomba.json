@@ -1,0 +1,147 @@
+{
+    "data": {
+        "menyanyisolo": [
+            {
+                "namaPeserta": "Sri Budiyanti Rambu Ridja, S.Pd", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FIMG20201211092952_00%5B1%5D-BPMUNKWINA.jpg?alt=media&token=f23e4940-d651-4a0b-892d-21d4980ee0f6", 
+                "bioSingkat": "Juara 1", 
+                "videoLaguWajib": "https://drive.google.com/file/d/1Rha9E4IE_ZKMzZmwoxYkLW5bGFmgmvP4/view", 
+                "videoLaguPilihan": "https://drive.google.com/file/d/1SikDGznTkespCbR2cTQwte2tHmTRMf1c/view", 
+                "juara": 1
+            },
+            {
+                "namaPeserta": "Megawati Helena Kilimandu", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fmenyayi-solo%2F1607859886446-mega-kilimandu.jpg?alt=media&token=530430ca-9e48-467e-a806-71ca0d3b76e3", 
+                "bioSingkat": "Juara 2", 
+                "videoLaguWajib": "https://drive.google.com/file/d/1l9R-pBrexONzQp4LAKaJ1MCWBIBBiowD/view", 
+                "videoLaguPilihan": "https://drive.google.com/file/d/1Ie_fmtSI3w8AiRn_u3kJaK16_-WkzqoX/view", 
+                "juara": 2
+            },
+            {
+                "namaPeserta": "Papy Rivandi Bara", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fmenyayi-solo%2FC360_2020-01-27-15-45-36-113%20-%20Rivan%20Bara26.jpg?alt=media&token=6b91b64f-7717-47bc-b749-96de672f8133", 
+                "bioSingkat": "Juara 3", 
+                "videoLaguWajib": "https://drive.google.com/file/d/1vY8tQt-z4aSw3ASw4G9_JPVHpdhG4Qfr/view", 
+                "videoLaguPilihan": "https://drive.google.com/file/d/16tH0O6qMf5ZPfTEGU51WHnxucXTLc6i-/view", 
+                "juara": 3
+            },
+            {
+                "namaPeserta": "Renata M.J Abraham", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fmenyayi-solo%2FFB_IMG_16081906767973230%20-%20Renata%20Meryani.jpg?alt=media&token=881a6e86-90bf-4ffe-a611-56104fc5e4bf", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoLaguWajib": "https://drive.google.com/file/d/1hS9Pm50BMs9NOce1V3urqFVuZSnH4uJB/view", 
+                "videoLaguPilihan": "https://drive.google.com/file/d/1Hrp-uYxfYDNnp7rNSFALzYpVav8UMiUJ/view", 
+                "juara": 4
+            },
+            {
+                "namaPeserta": "Cozy epu", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fmenyayi-solo%2FScreenshot_20201217-232456_WhatsApp%20-%20Sende%20fransisko.jpg?alt=media&token=99fb4e8e-3d70-48d3-bbf4-62553fd26f55", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoLaguWajib": "https://drive.google.com/file/d/1mzkr0V8FdVGXjk01-PtAlk-RjXp3ANdv/view", 
+                "videoLaguPilihan": "https://drive.google.com/file/d/1UVUXrjt788EpSqGVUPKbfiHCu3MlPupu/view", 
+                "juara": 5
+            }
+        ],
+        "videopuisi": [
+            {
+                "namaPeserta": "Yunita Suhartini Milla", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FIMG_20200516_095930-NitongImill.jpg?alt=media&token=5e821e27-fcf7-47d2-bc9d-78d50e239022", 
+                "bioSingkat": "Juara 1", 
+                "videoPuisi": "https://drive.google.com/file/d/1ddMfiJFvWZQyvjT5SHvH60vySTrH-Gwq/view", 
+                "juara": 1, 
+                "score": 110, 
+                "catatan": "Tidak Mengatur Pernapasan Dengan Baik"    
+            },
+            {
+                "namaPeserta": "Sri Budiyanti Rambu Ridja, S.Pd", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FIMG20201211092952_00%5B1%5D-BPMUNKWINA.jpg?alt=media&token=f23e4940-d651-4a0b-892d-21d4980ee0f6", 
+                "bioSingkat": "Juara 2", 
+                "videoPuisi": "https://drive.google.com/file/d/1iWFbx2IIddlPkJeE9vd9W1bJaJCLTj9b/view", 
+                "juara": 2, 
+                "score": 100, 
+                "catatan": "Tidak Mengatur Pernapasan Dengan Baik"    
+            },
+            {
+                "namaPeserta": "Luta Lapu Kahewa Marak", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FMy-img-2-Luta-Lapu-Kahewa-Marak.jpg?alt=media&token=290f1903-f093-46ce-9601-bff2044d3364", 
+                "bioSingkat": "Juara 3", 
+                "videoPuisi": "https://drive.google.com/file/d/1dVvpdIrh5MFsAe6X1xzh2j6XbQvfiL7r/view", 
+                "juara": 3, 
+                "score": 95, 
+                "catatan": "Belum Nampak Naik Turunnya Nada Dalam Membaca"    
+            },
+            {
+                "namaPeserta": "Marlin Fitri Daniel Padji", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2Fphoto_2020-12-30_17-20-25.jpg?alt=media&token=dddaf3a5-9b84-4aae-8033-b1b33df0c410", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1t_NVYp06VQpDDP9dxxUBpeMCFhG-fl99/view", 
+                "juara": 4, 
+                "score": 80, 
+                "catatan": "Belum Nampak Naik Turunya Nada Dalam Membaca"    
+            },
+            {
+                "namaPeserta": "Helena Asti Wolla Ole", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FIMG-20201129-WA0023%20-%20Helena%20Ole.jpg?alt=media&token=b62afff8-d218-48cc-bd7e-4bb314e8326c", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/12ekXuVtssHI9KXf0v7fpl8tC0sqYcGxe/view", 
+                "juara": 5, 
+                "score": 75, 
+                "catatan": "Kurang Menghayati"    
+            },
+            {
+                "namaPeserta": "Rambu Feny Radandima", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FIMG_20201204_214143_279%20-%20Feny%20Radandima.jpg?alt=media&token=443b19a5-d766-4a84-bc8d-231c39fc9747", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1AXm6fS4tps-j37hqUr6MJ6vXGEuSSFfh/view", 
+                "juara": 6, 
+                "score": 73, 
+                "catatan": "Mimik Belum Menampilkan Perasaan Dalam Puisi, Naik Turunya Dalam Membaca Tidak Nampak"    
+            },
+            {
+                "namaPeserta": "Ficram djawa huky", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FLRM_EXPORT_20181029_121222-ChannelSastraPuisi.jpg?alt=media&token=c18ed115-3700-48f5-b6f3-82c05dce5a07", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1l8qJdZJP-pPEQ0Wmlxf_sZ3uBqg1perZ/view", 
+                "juara": 7, 
+                "score": 70, 
+                "catatan": "Peserta Tidak Muncul Dalam Video, Tidak Ada Judul Dan Penulis Puisi"    
+            },
+            {
+                "namaPeserta": "Arnike Valentine Rambu Kahi Tokung", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2F43289673_2107181369334076_260716588020269056_n-1%20-%20Ijo%20Lumut.jpg?alt=media&token=99c796d6-7d97-441b-9d7f-a3e9437586c2", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1jWxNcP5xIHCZkgEgHOzpgGzGaYTHiGEq/view", 
+                "juara": 8, 
+                "score": 65, 
+                "catatan": "Mimik Belum Menggambarkan Perasaan Puisi"    
+            },
+            {
+                "namaPeserta": "Rafael Ranjawali", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2F20200821_213914%20-%209043%20Rafael%20Ranjawali.jpg?alt=media&token=6e725762-d77d-45ee-bb6d-1b23520807ef", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1-ltzzHhn_q9S-i8mCGc_6qXPFYlk7XmA/view", 
+                "juara": 9, 
+                "score": 65, 
+                "catatan": "Perubahan Nada Saat Membacakan Puisi Tidak Nampak"    
+            },
+            {
+                "namaPeserta": "Apriani Ana Milla, SE", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2Faprila%20Lomba%20-%20Bagian%20Kemahasiswaan.jpeg?alt=media&token=2c4c7fb4-4ff4-4d75-bd66-a688fc529102", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1FDNtZYcrcxn0ubIPN-h0Vq_wi_GvGeev/view", 
+                "juara": 10, 
+                "score": 60, 
+                "catatan": "Intonasi Dipengaruhi Kurangnya Penghayatan Terhadap Puisi"    
+            },
+            {
+                "namaPeserta": "Ngailu Jowa", 
+                "gambarPeserta": "https://firebasestorage.googleapis.com/v0/b/natal-unkriswina-2k20.appspot.com/o/foto-peserta-lomba%2Fvideo-puisi%2FFB_IMG_16066629264805607%20-%20Ngailu%20Jowa.jpg?alt=media&token=03171fe1-e5b5-47c2-84a2-d33bd0561565", 
+                "bioSingkat": "Tidak Mendapatkan Juara", 
+                "videoPuisi": "https://drive.google.com/file/d/1vRdPBsatE4Xv1SA-HHMnsyWnp3o75ASZ/view", 
+                "juara": 11, 
+                "score": 55, 
+                "catatan": "Tidak Mengatur Pernapasan Dengan Baik"    
+            }
+        ]
+    }
+}
