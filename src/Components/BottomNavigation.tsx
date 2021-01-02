@@ -13,8 +13,10 @@ import GroupIcon from '@material-ui/icons/Group';
 const useStyles = makeStyles({
   root: {
     width: '100%',
-    marginTop: '40px'
-  },
+    marginTop: '40px',
+    position: 'fixed',
+    bottom: 0
+  }
 });
 
 export default function SimpleBottomNavigation() {

@@ -12,8 +12,8 @@ const Tentang: React.FC = () => {
   	<div>
 				<Header />
 				<div className={CustomStyle.background}>
-					<Typography variant="h3" color="primary" className={CustomStyle.title}>
-						Natal Unwina 2k20 Dokumentasi            
+					<Typography variant="h4" color="primary" className={CustomStyle.title}>
+						Natal Unkriswina Sumba 2k20 Dokumentasi            
 					</Typography>
 					<Typography variant="subtitle1" className={CustomStyle.title}>
 						Yuk Kepo'in Kami 
@@ -48,7 +48,7 @@ const Tentang: React.FC = () => {
 									Tema Natal Tahun Ini Adalah "Dan Mereka Akan Menamakan Dia Imanuel" Mat 1:23
               </Typography>
 							<Typography variant="body2" align="justify" paragraph>
-								Metode Natal Tahun Ini Dilakan Secara Semi Offline, Staf Pegawai, Organisasi Kampus, Menghadiri Acara Secara Langsung Di Aula Kampus Unwina Bersama Dengan Panitia Natal, Sedangkan
+								Metode Natal Tahun Ini Dilakukan Secara Semi Offline, Staf Pegawai, Organisasi Kampus, Menghadiri Acara Secara Langsung Di Aula Kampus Unwina Bersama Dengan Panitia Natal, Sedangkan
 								Dosen Mahasiswa/i Lain Yang Tidak Mendapatkan Undangan Untuk Menghadiri Acara Secara Langsung Menggunakan Zoom Meeting Untuk Menyaksikan Perayaan Natal.
 							</Typography>
               <Typography variant="body2" paragraph align="justify">

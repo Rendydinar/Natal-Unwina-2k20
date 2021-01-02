@@ -85,7 +85,7 @@ export default function FullWidthTabs() {
     <div>
 			<Header />
       <div className={CustomStyle.background}>
-				<Typography variant="h3" color="primary" className={CustomStyle.title}>
+				<Typography variant="h4" color="primary" className={CustomStyle.title}>
 					Kegiatan Pra-Natal UNKRISWINA Sumba 2020            
 				</Typography>
 				<Typography variant="body2" className={CustomStyle.title}>

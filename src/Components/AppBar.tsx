@@ -23,7 +23,7 @@ export default function ButtonAppBar() {
   return (
     <div className={classes.root}>
       <div className={CustomStyle.background}>
-        <Typography variant="h3" color="primary" className={CustomStyle.title}>
+        <Typography variant="h4" color="primary" className={CustomStyle.title}>
           Dokumentasi Natal Unkriswina Sumba 2k20            
         </Typography>
         <Typography variant="subtitle1" className={CustomStyle.title}>

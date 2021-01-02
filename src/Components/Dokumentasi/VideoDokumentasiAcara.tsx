@@ -67,14 +67,12 @@ export default function RecipeReviewCard() {
 					title="Ibadah Natal UKRISIWNA Sumba 2020"
 					subheader="Jumat 18 Desember 2020"
 				/>
-			<Grid style={{marginTop: '-90px'}} container justify="center" color="primary" spacing={0}>
+			<Grid container justify="center" color="primary" spacing={0}>
 				<CardContent>
-					<video width="330" height="330" controls >
-						<source src="https://r4---sn-npoe7nes.c.drive.google.com/videoplayback?expire=1609404245&ei=FVftX4jPFZnjrvIP4I-q6AQ&ip=180.249.167.38&cp=QVRFQUVfU1JSRlhPOl9XdkN5ZUU1NzJjS0o4dVk4OUJjVF9PREhtZlFRaUdkb0pPTVQ2emR6Um8&id=37539eb6e19e87f4&itag=18&source=webdrive&requiressl=yes&mh=b9&mm=32&mn=sn-npoe7nes&ms=su&mv=m&mvi=4&pl=22&ttl=transient&susc=dr&driveid=1Je2vWOLdyljvEv7h2MWjE0Oc64TGipOi&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=8387.072&lmt=1608296297553514&mt=1609389379&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgXSvAka8WA4jRZeSfBwuM1beJtYphWLsumaZa--u3kPACIHVCh31RERX74HScUbf2N6K9eScZTrEFe_kDG0Dsk7wv&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgNywtyZpJ6ZQGEWVGIvY5CJmLxYaWURFSZSWyInDngUgCIQCB9eGrEBsNGgFNnc_5jVA7-bzrI-BFfVjjqMtU8Xh3Ig==&cpn=Ebchnrq4CODmT2mT&c=WEB_EMBEDDED_PLAYER&cver=20201218" type="video/mp4"/>
-					</video>
+					<iframe title="Video Ibadah Perayaan Natal Unkriswina Sumba 2k20" src="https://drive.google.com/file/d/1t0t7Zl91ipFpRZFJI8ltG5xJ38LkClPz/preview" width="300" height="300"></iframe>
 				</CardContent>
-				<Typography variant="body2" align="center" >
-					Selemat Menyaksikan Ibadah Perayaan Hari Natal Universitas Kristen Wira Wacana Sumba 2020
+				<Typography variant="body2" align="center">
+					Selamat Menyaksikan Ibadah Perayaan Hari Natal Universitas Kristen Wira Wacana Sumba 2020
 				</Typography>
 				<CardActions disableSpacing>
 					<IconButton
@@ -94,14 +92,17 @@ export default function RecipeReviewCard() {
 					<CardContent>
 					<Typography variant="subtitle1" color="primary">Time Stamp:</Typography>
 					<List style={{'marginLeft': '25px'}}>
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
-						<ListItemText primary="00:10-14:00  - Pembuka" />
+						<ListItemText primary="00:00-19:59  - Pembuka" />
+						<ListItemText primary="20:00-47:00  - Firman" />
+						<ListItemText primary="47:01-54:15  - Persembahan Lagu" />
+						<ListItemText primary="57:00-01:07:00  - Penyalaan Lilin Natal" />
+						<ListItemText primary="01:13:00-:01:17:00  - Laporan Ketua Panitia Natal" />
+						<ListItemText primary="01:18:15-:01:28:10  - Kata Sambutan Rektor Universitas Kristen Wira Wacana Sumba" />
+						<ListItemText primary="01:31:00-:01:35:00  - Persembahan Lagu" />
+						<ListItemText primary="01:35:05-:01:37:21  - Doa Syafaat" />
+						<ListItemText primary="01:40:00-:01:54:40  - Dorprize" />
+						<ListItemText primary="01:55:30-:02:05:00  - Foto Bersama" />
+						<ListItemText primary="02:05:30-:01:16:50  - Persembahan Lagu" />
 					</List>
 					<Divider />
 					<Typography variant="subtitle1" color="primary">Penatayanan:</Typography>
@@ -137,7 +138,7 @@ export default function RecipeReviewCard() {
 											<Typography
 												component="span"
 												variant="body2"											
-												color="textPrimary"
+												color="primary"
 											>
 												MC
 											</Typography>
@@ -157,7 +158,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													MC
 												</Typography>
@@ -177,7 +178,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Singer
 												</Typography>
@@ -197,7 +198,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Singer
 												</Typography>
@@ -217,7 +218,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Gitaris
 												</Typography>
@@ -237,7 +238,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Pemain Keyboard
 												</Typography>
@@ -257,7 +258,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Pemain Drum
 												</Typography>
@@ -277,7 +278,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Pemain Bass
 												</Typography>
@@ -297,7 +298,7 @@ export default function RecipeReviewCard() {
 												<Typography
 													component="span"
 													variant="body2"											
-													color="textPrimary"
+													color="primary"
 												>
 													Host
 												</Typography>

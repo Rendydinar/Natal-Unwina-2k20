@@ -27,8 +27,8 @@ const Panitia: React.FC = () => {
 	<div>
 		<Header />
 			<div className={CustomStyle.background}>
-				<Typography variant="h3" color="primary" className={CustomStyle.title}>
-					Panitia Natal UNKRISWINA Sumba 2020            
+				<Typography variant="h4" color="primary" className={CustomStyle.title}>
+					Panitia Natal Unkriswina Sumba 2020            
 				</Typography>
 				<Typography variant="subtitle1" className={CustomStyle.title}>
 					Lebih Dari 20 Mahasiswa Aktif Yang Turut <span>Menyelenggarakan</span> & <span>Menyukseskan</span>  Kegiatan Natal Kali Ini         
